@@ -30,6 +30,7 @@ Atualmente estou desenvolvendo meus conhecimentos principalmente em:
 - 🔷 TypeScript
 - 🗄️ Bancos de dados
 - 🌐 Desenvolvimento Web
+- https://curriculo-lu3s-git-main-gustavo-muniz.vercel.app/#projetos
 
 ---
 
